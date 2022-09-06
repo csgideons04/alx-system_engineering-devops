@@ -20,3 +20,4 @@
 19. Write a script that replace all characters A and c from input to Z and e respectively.
 20 A script that removes all letters c and C from input.
 21. A script that reverse its input.
+22. A script that displays all users and their home directories, sorted by users.
